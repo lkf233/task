@@ -1,0 +1,4 @@
+交的很慢
+因为在学习mysql
+学完mysql才能搞jdbc和crud
+现在还要学连接池
